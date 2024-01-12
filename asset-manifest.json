@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.47396087.css",
-    "main.js": "/react-gh-pages/static/js/main.e8511894.js",
-    "static/js/787.d4aba7ab.chunk.js": "/react-gh-pages/static/js/787.d4aba7ab.chunk.js",
-    "static/media/stackline_logo.svg": "/react-gh-pages/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.47396087.css.map": "/react-gh-pages/static/css/main.47396087.css.map",
-    "main.e8511894.js.map": "/react-gh-pages/static/js/main.e8511894.js.map",
-    "787.d4aba7ab.chunk.js.map": "/react-gh-pages/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/stackline-oa/static/css/main.47396087.css",
+    "main.js": "/stackline-oa/static/js/main.335963a1.js",
+    "static/js/787.d4aba7ab.chunk.js": "/stackline-oa/static/js/787.d4aba7ab.chunk.js",
+    "static/media/stackline_logo.svg": "/stackline-oa/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/stackline-oa/index.html",
+    "main.47396087.css.map": "/stackline-oa/static/css/main.47396087.css.map",
+    "main.335963a1.js.map": "/stackline-oa/static/js/main.335963a1.js.map",
+    "787.d4aba7ab.chunk.js.map": "/stackline-oa/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47396087.css",
-    "static/js/main.e8511894.js"
+    "static/js/main.335963a1.js"
   ]
 }
