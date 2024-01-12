@@ -1,0 +1,122 @@
+.app {
+  height: 100%;
+  width: 100%;
+}
+
+.content-container {
+  width: 100%;
+  display: flex;
+  padding: 60px 0;
+}
+
+.header {
+  height: 60px;
+  background-color: #052849;
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.product-details-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 0;
+  height: inherit;
+  text-align: center;
+  width: 20%;
+  margin: 0 20px;
+}
+
+.product-image {
+  width: 200px;
+}
+
+.product-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.product-subtitle {
+  color: #c9d7e4;
+  padding: 10px 30px 30px;
+}
+
+.product-tag-container {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #c9d7e4;
+  border-bottom: 1px solid #c9d7e4;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 8px 10px;
+}
+
+.product-tags {
+  border: 1px solid #c9d7e4;
+  border-radius: 4px;
+  padding: 3px 10px;
+  white-space: nowrap;
+  flex: 1;
+}
+
+.visualization-container {
+  width: 80%;
+  margin-right: 20px;
+}
+
+.visualization-line {
+  border: 10px;
+  margin-bottom: 60px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.visualization-table {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.visualization-table-header {
+  height: 60px;
+  width: 100%;
+  text-align: center;
+}
+
+.visualization-table-body {
+  height: 40px;
+  width: 100%;
+  text-align: center;
+  color: #c9d7e4;
+}
+
+.visualization-line-title {
+  padding: 30px;
+  font-size: 25px;
+}
+
+.visualization-line-label {
+  display: flex;
+  justify-content: space-evenly;
+  color: #c9d7e4;
+  padding: 30px 0;
+  border-top: 2px solid #c9d7e4;
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+}
+tbody {
+  tr {
+    border-top: 1px solid #c9d7e4; /* Replace #000000 with the color you want */
+  }
+}
+
+
+
