@@ -40,3 +40,4 @@ export const LINE_CHART_XAXIS_LABELS = [
   'NOV',
   'DEC'
 ];
+

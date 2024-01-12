@@ -6,6 +6,7 @@ import { SALES_TYPES } from '../utils/utils';
 const VisualizationTable = () => {
   const data = useSelector((state: RootState) => state.product.data)[0];
   const salesData = data.sales;
+  
 
   const getTableHeaderCells = () => {
     return SALES_TYPES.map((type, index) => {
